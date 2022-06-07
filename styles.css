@@ -1,0 +1,31 @@
+#title{
+  background-color: #ff4c68;
+  color:#fff;
+}
+.heading{
+  font-family: "Montserrat-Black";
+  font-size:3rem;
+  line-height: 1.5;
+}
+
+.container-fluid{
+  /*background-color:blue;*/
+  padding-top:3%;
+  padding-left:15%;
+  padding-right:15%;
+  padding-bottom:3%;
+}
+body{
+  font-family:"Montserrat";
+}
+
+/* Navigation -bar CSS */
+
+.navbar-brand{
+  font-family:"Ubuntu";
+  font-size:2.5rem;
+  font-weight: bold;
+}
+.navbar  {
+  padding-bottom:3.5rem;
+}
